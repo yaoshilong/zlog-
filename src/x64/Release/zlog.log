@@ -1,0 +1,26 @@
+﻿生成启动时间为 2020/10/23 16:15:48。
+日志记录详细程度设置为: Normal。     1>项目“C:\Users\xiaoyao\source\repos\zlog\src\zlog.vcxproj”在节点 2 上(Build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“x64\Release\zlog.tlog\unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\bin\HostX86\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\xiaoyao\source\repos\zlog\src\x64\Release\zlog.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:../lib zlog.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\xiaoyao\source\repos\zlog\src\x64\Release\zlog.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\xiaoyao\source\repos\zlog\src\x64\Release\zlog.lib" /MACHINE:X64 x64\Release\people.obj
+         x64\Release\test_zlog.obj
+         x64\Release\zlog.obj
+         正在生成代码
+         9 of 134 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         已完成代码的生成
+         zlog.vcxproj -> C:\Users\xiaoyao\source\repos\zlog\src\x64\Release\zlog.exe
+       FinalizeBuildStatus:
+         正在删除文件“x64\Release\zlog.tlog\unsuccessfulbuild”。
+         正在对“x64\Release\zlog.tlog\zlog.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\xiaoyao\source\repos\zlog\src\zlog.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+    0 个警告
+    0 个错误
+
+已用时间 00:00:01.02

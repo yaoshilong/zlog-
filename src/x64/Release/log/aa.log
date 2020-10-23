@@ -1,0 +1,7 @@
+2020-10-23 14:08:37([88]thread start-2020-10-23 14:08:37 1955140032) INFO  [33004:C:\Users\xiaoyao\source\repos\zlog\src\zlog.cpp:19] [88]thread start
+2020-10-23 14:08:37([88]debug-2020-10-23 14:08:37 1955140032) DEBUG [33004:C:\Users\xiaoyao\source\repos\zlog\src\people.cpp:6] [88]debug
+2020-10-23 14:08:37([88]info-2020-10-23 14:08:37 1955140032) INFO  [33004:C:\Users\xiaoyao\source\repos\zlog\src\people.cpp:7] [88]info
+2020-10-23 14:08:37([88]error-2020-10-23 14:08:37 1955140032) ERROR [33004:C:\Users\xiaoyao\source\repos\zlog\src\people.cpp:8] [88]error
+2020-10-23 14:08:37([88]warn-2020-10-23 14:08:37 1955140032) WARN  [33004:C:\Users\xiaoyao\source\repos\zlog\src\people.cpp:9] [88]warn
+2020-10-23 14:08:37([88]notice-2020-10-23 14:08:37 1955140032) NOTICE [33004:C:\Users\xiaoyao\source\repos\zlog\src\people.cpp:10] [88]notice
+2020-10-23 14:08:37([88]fatal-2020-10-23 14:08:37 1955140032) FATAL [33004:C:\Users\xiaoyao\source\repos\zlog\src\people.cpp:11] [88]fatal
